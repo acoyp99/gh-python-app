@@ -1,0 +1,4 @@
+[tool.poetry]
+name = "gh-app"
+version = "0.1.0"
+
